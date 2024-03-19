@@ -1,4 +1,4 @@
-# task 1 - correct the code 
+# correct the code 
 Pi_value = 3.14 # not good practice unless for class 
 userAge = 25 # variable
 user_location = "New York" # variable

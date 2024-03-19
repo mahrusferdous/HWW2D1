@@ -1,3 +1,4 @@
+# find type of variables
 variable_a = "Hello, World!"
 variable_b = 23
 variable_c = 3.14
